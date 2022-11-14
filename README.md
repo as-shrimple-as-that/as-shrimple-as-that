@@ -8,6 +8,8 @@
 
 \> So far, this process of learning Python has made me able to identify bugs in **other people's games without even knowing the language its written in and seeing their code,** so I'd say it's working out well. I can fully diagnose not only the replicative cause, but also the internal cause and how they can fix it. It's pretty rare that I can, but it happened just yesterday, so I'm pretty proud of that.
 
+I got paid an entire fifty dollars by a professional developer for making a shrimp-themed boxing glove for a game.
+
 \> I'm a very creative loser, and I have ***NO*** idea what I'm doing at all, but it all works out as long as I don't get out of my chair. **Do not get out of the chair.**
 
 ## > Capabilities n' stuff
