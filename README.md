@@ -18,7 +18,7 @@ I got paid an entire fifty dollars by a professional developer for making a shri
 
 \> I'm good at making art as well, which includes graphic design and 3D textures (with a bit of trial and error). I *have* animated in the past, but it's so terribly embarrasing that it's HARDLY worth mention. Done a little bit of stuff with Blender, but I'm still terrible with it to this day. One of my proudest accomplishments is spending 7 hours on 14 lines of code, only to realize that the error was that I didn't make the loop function in the code end.
 
-\> I use <a href="https://replit.com/~">Replit</a> for most of my coding, simply because I'm too lazy to use anything else ¯\_(ツ)_/¯
+\> I use <a href="https://replit.com/~">Replit</a> for most of my coding, simply because I'm too lazy to use anything else ¯\\_(ツ)_/¯
 
 \> I have a bit of experience with <a href="https://www.roblox.com/create">Roblox Studio</a>, but as with most "bits of experience," it's hardly worth a mention.
 
